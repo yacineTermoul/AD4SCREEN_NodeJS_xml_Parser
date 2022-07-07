@@ -1,0 +1,25 @@
+{
+  "name": "ad4screen_nodejs_xml_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "startServer": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yacineTermoul/AD4SCREEN_NodeJS_xml_Parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yacineTermoul/AD4SCREEN_NodeJS_xml_Parser/issues"
+  },
+  "homepage": "https://github.com/yacineTermoul/AD4SCREEN_NodeJS_xml_Parser#readme",
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0",
+    "nodemon": "^2.0.19",
+    "rss-parser": "^3.12.0"
+  }
+}
